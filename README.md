@@ -15,6 +15,14 @@ To view the app, <a href="https://edom-bankcustomerchurn.streamlit.app/"> Click-
 - Understanding how to represent model predictions graphically, improving business decision-making.
 - Experience working with machine learning models for prediction purposes.
 - Knowledge of creating clean, user-friendly dashboards for technical and non-technical users alike.
+
+## Machine Learning Models Used
+
+<div>
+  <img src="https://img.shields.io/badge/-XGBoost-EF4E2C?&style=for-the-badge&logo=xgboost&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Random Forest-0A0A0A?&style=for-the-badge&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Decision Tree-2B2B2B?&style=for-the-badge&logoColor=white" /> 
+</div>
   
 ## Tools Used
 
